@@ -7,6 +7,7 @@ class Encoding:
 
 	def encode(self):
 		list1 = list(self.message)
+		while len(list1) >= n
 		
 
 
